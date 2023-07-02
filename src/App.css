@@ -18,13 +18,16 @@
   display: flex;
   justify-content: center;
 }
+
 .win {
   border: 10px solid green;
 }
+
 .lose {
   border: 10px solid red;
   color: red;
 }
+
 .tie {
   border: 10px solid black;
   color: black;

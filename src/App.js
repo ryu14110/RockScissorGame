@@ -27,7 +27,6 @@ function App() {
     setResult(judgement(choice[userChoice], computerChoice));
   };
 
-
   const randomChoice=()=>{
     let itemArray = Object.keys(choice);
     // console.log('item array', itemArray)
